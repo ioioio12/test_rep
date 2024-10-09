@@ -1,3 +1,4 @@
 a=1
 v=1
-print(a+v)
+d=3
+print(a+v+d)
